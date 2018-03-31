@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">206f82aa-2a30-4500-ae92-a90fe49bed75</dc:identifier>
+        <dc:title>Bitcoin</dc:title>
+        <dc:creator opf:file-as="Investigation, Federal Bureau of" opf:role="aut">Federal Bureau of Investigation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>FBI intelligence bulletin referencing Bitcoin.&lt;br /&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>FBI</dc:subject>
+        <dc:subject>FBI file</dc:subject>
+        <dc:subject>Federal Bureau of Investigation</dc:subject>
+        <dc:subject>Bitcoin</dc:subject>
+        <dc:subject>cryptocurrency</dc:subject>
+        <meta content="{&quot;Federal Bureau of Investigation&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-30T01:00:47.915000+00:00" name="calibre:timestamp"/>
+        <meta content="Bitcoin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

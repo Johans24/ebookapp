@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8887eae1-c3cf-4727-99c8-2e0c797719ce</dc:identifier>
+        <dc:title>Understanding Network Hacks [electronic resource] : Attack and Defense with Python</dc:title>
+        <dc:creator opf:file-as="Ballmann, Bastian, author &amp; SpringerLink (Online service)" opf:role="aut">Ballmann, Bastian, author</dc:creator>
+        <dc:creator opf:file-as="Ballmann, Bastian, author &amp; SpringerLink (Online service)" opf:role="aut">SpringerLink (Online service)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-15T04:30:00+00:00</dc:date>
+        <dc:description>This book explains how to see one's own network through the eyes of an attacker, to understand their techniques and effectively protect against them. Through Python code samples the reader learns to code tools on subjects such as password sniffing, ARP poisoning, DNS spoofing, SQL injection, Google harvesting and Wifi hacking. Furthermore the reader will be introduced to defense methods such as intrusion detection and prevention systems and log file analysis by diving into code</dc:description>
+        <dc:publisher>Springer Berlin Heidelberg</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer science</dc:subject>
+        <dc:subject>Computer networks</dc:subject>
+        <dc:subject>Software engineering</dc:subject>
+        <dc:subject>Data protection</dc:subject>
+        <dc:subject>Computer Communication Networks</dc:subject>
+        <dc:subject>Computer engineering</dc:subject>
+        <dc:subject>Systems and Data Security</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Compilers</dc:subject>
+        <dc:subject>Interpreters</dc:subject>
+        <dc:subject>Software Engineering/Programming and Operating Systems</dc:subject>
+        <meta content="{&quot;Ballmann, Bastian, author&quot;: &quot;&quot;, &quot;SpringerLink (Online service)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-30T00:50:26.511000+00:00" name="calibre:timestamp"/>
+        <meta content="Understanding Network Hacks [electronic resource] : Attack and Defense with Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

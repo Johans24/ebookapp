@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67fa3f2c-266a-4a1c-9af2-d97225fe082b</dc:identifier>
+        <dc:title>2014 Programming Principles And Practice Using C++</dc:title>
+        <dc:creator opf:file-as="Desconocido" opf:role="aut">Desconocido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C++ Programming</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>C++ Programming</dc:subject>
+        <dc:subject>البرمجة بلغة السي</dc:subject>
+        <meta content="{&quot;Desconocido&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-30T00:50:28.470000+00:00" name="calibre:timestamp"/>
+        <meta content="2014 Programming Principles And Practice Using C++" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

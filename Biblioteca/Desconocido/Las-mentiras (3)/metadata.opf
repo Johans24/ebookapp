@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">120f7c33-8251-4a3f-98a7-9d1dff7b1bd1</dc:identifier>
+        <dc:title>Las-mentiras</dc:title>
+        <dc:creator opf:file-as="Desconocido" opf:role="aut">Desconocido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.20.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta content="{&quot;Desconocido&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-30T00:33:52.899000+00:00" name="calibre:timestamp"/>
+        <meta content="Las-mentiras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>
