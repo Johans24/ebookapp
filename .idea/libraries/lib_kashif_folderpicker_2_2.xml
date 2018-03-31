@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib.kashif:folderpicker-2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/folderpicker-2.2.aar/ae771a082d078ebdfeef4170c783bf31/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/folderpicker-2.2.aar/ae771a082d078ebdfeef4170c783bf31/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/lib.kashif/folderpicker/2.2/3d3f33474d0d578f8ef64a6a342d4f80139ae2cd/folderpicker-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
